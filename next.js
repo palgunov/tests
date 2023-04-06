@@ -1,1 +1,2 @@
 "use skript"
+alert("hello")
